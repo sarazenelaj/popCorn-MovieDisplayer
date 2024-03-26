@@ -1,3 +1,5 @@
+![image](https://github.com/sarazenelaj/popCorn-MovieDisplayer/assets/88828484/fe8a6860-bb7c-4879-ac55-d0b3fd40606c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

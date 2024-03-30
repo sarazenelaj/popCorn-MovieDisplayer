@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
 View Project: https://pop-corn-movie-displayer-sgqi-j9h671a4m-sara-zenelajs-projects.vercel.app/
 ## Available Scripts
 

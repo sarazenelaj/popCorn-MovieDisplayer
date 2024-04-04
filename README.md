@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 View Project: https://pop-corn-movie-displayer-sgqi-j9h671a4m-sara-zenelajs-projects.vercel.app/
+![image](https://github.com/sarazenelaj/popCorn-MovieDisplayer/assets/88828484/3c777164-373f-49a1-8ee3-8cc90a99b416)
+
 ## Available Scripts
 
 In the project directory, you can run:
